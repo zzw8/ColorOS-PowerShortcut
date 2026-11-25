@@ -12,6 +12,8 @@
 
 从 [0.3.0 测试版发布页](https://github.com/zzw8/ColorOS-PowerShortcut/releases/tag/v0.3.0) 下载并安装 APK。完整的 Shizuku 配对、Google 钱包配置、后台使用和故障排查步骤见 [中文图文指南](docs/guide.zh-CN.md)。
 
+**开启插件监听前，请先关闭系统自带的「双击电源键唤起钱包」。** 可以在本应用的「设置与诊断 → 打开原厂钱包」进入 ColorOS 钱包，再到「我的 → 设置」关闭「双击电源键唤起快捷服务」。
+
 <img src="docs/images/shortcut-home.png" alt="一加 15 上的电源快捷键首页实拍" width="300">
 
 首页实拍来自此前的测试版，已裁掉系统状态栏。当前版在 Google 钱包卡片内提供「防止双击先息屏」开关。
